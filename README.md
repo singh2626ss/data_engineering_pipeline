@@ -1,4 +1,4 @@
-# data_engineering_pipeline
+# data_engineering_pipeline 
 YouTube Trending Data Engineering Pipeline End-to-end AWS data engineering project to ingest, transform, and analyze trending YouTube video data using S3, Glue, Lambda, Athena, and QuickSight. This pipeline handles raw CSV/JSON data from Kaggle, performs ETL into Parquet, and delivers insights via an interactive BI dashboard
 YouTube Trending Data Engineering Project
 🔍 Overview
@@ -106,6 +106,7 @@ Adding Step Functions for orchestration.
 Scheduling regular updates via CloudWatch + Lambda.
 
 Creating an ML pipeline using SageMaker based on engagement prediction.
+link to the dashboard (dashboard still in progress) :- https://us-east-2.quicksight.aws.amazon.com/sn/accounts/522113393514/dashboards/ab497dbd-8807-4d51-bb31-87feb964160c?directory_alias=Saransh-Singh
 
 
 
